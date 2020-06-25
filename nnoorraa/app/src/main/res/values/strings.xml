@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GRADE CALCULATER</string>
+    <string name="reset">reset</string>
+    <string name="grade_calculater">grade calculater</string>
+    <string name="mid_terms_30">mid_terms_30</string>
+    <string name="gradecalculater">grade_calculater</string>
+    <string name="final_30">final_30</string>
+    <string name="quizes15">quizes15%</string>
+    <string name="calculate">calculate</string>
+    <string name="homework_25">homework_25</string>
+    <string name="homework25">homework25%</string>
+    <string name="midterms_30">midterms 30%</string>
+    <string name="final30">final30%</string>
+    <string name="yourgrade">your grade</string>
+    <string name="your_grade">your grade</string>
+    <string name="yourgrade">your grade</string>
+</resources>
